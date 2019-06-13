@@ -1,0 +1,5 @@
+E:\Socket编程Demo\SocketServer\SocketServer\obj\Debug\SocketServer.csprojAssemblyReference.cache
+E:\Socket编程Demo\SocketServer\SocketServer\obj\Debug\SocketServer.Form1.resources
+E:\Socket编程Demo\SocketServer\SocketServer\obj\Debug\SocketServer.Properties.Resources.resources
+E:\Socket编程Demo\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.GenerateResource.cache
+E:\Socket编程Demo\SocketServer\SocketServer\obj\Debug\SocketServer.csproj.CoreCompileInputs.cache

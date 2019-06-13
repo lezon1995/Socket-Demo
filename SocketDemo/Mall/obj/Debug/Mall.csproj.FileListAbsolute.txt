@@ -1,0 +1,13 @@
+E:\Socket编程Demo\SocketDemo\Mall\bin\Debug\Mall.exe.config
+E:\Socket编程Demo\SocketDemo\Mall\bin\Debug\Mall.exe
+E:\Socket编程Demo\SocketDemo\Mall\bin\Debug\Mall.pdb
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.Form1.resources
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.Properties.Resources.resources
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.csproj.GenerateResource.cache
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.csproj.CoreCompileInputs.cache
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.exe
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.pdb
+E:\Socket编程Demo\SocketDemo\Mall\bin\Debug\Newtonsoft.Json.dll
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.csproj.CopyComplete
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.csprojAssemblyReference.cache
+E:\Socket编程Demo\SocketDemo\Mall\obj\Debug\Mall.Tip.resources
